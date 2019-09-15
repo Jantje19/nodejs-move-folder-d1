@@ -1,0 +1,29 @@
+{
+	"name": "move-folder-d1",
+	"version": "0.1.0",
+	"description": "Move folder with depth 1, but only with built-in NodeJS packages",
+	"main": "./dist/mover.js",
+	"dependencies": {},
+	"devDependencies": {
+		"@types/node": "^12.7.5",
+		"@typescript-eslint/eslint-plugin": "^2.2.0",
+		"@typescript-eslint/parser": "^2.2.0",
+		"eslint": "^6.4.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jantje19/nodejs-move-folder-d1.git"
+	},
+	"keywords": [
+		"move folder"
+	],
+	"author": "Jantje19",
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/Jantje19/nodejs-move-folder-d1/issues"
+	},
+	"homepage": "https://github.com/Jantje19/nodejs-move-folder-d1#readme"
+}
