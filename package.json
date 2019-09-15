@@ -1,7 +1,7 @@
 {
 	"name": "move-folder-d1",
 	"version": "0.1.0",
-	"description": "Move folder with depth 1, but only with built-in NodeJS packages",
+	"description": "Move folder with depth 1. Only with built-in NodeJS packages",
 	"main": "./dist/mover.js",
 	"dependencies": {},
 	"devDependencies": {
